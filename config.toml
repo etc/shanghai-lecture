@@ -1,0 +1,4 @@
+baseURL = 'https://shanghai-lecture.org/'
+languageCode = 'en-us'
+title = 'The Shanghai Lecture in Philosophy'
+theme = 'ananke'
