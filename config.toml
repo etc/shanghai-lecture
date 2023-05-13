@@ -1,4 +1,8 @@
 baseURL = 'https://shanghai-lecture.org/'
 languageCode = 'en-us'
-title = 'The Shanghai Lecture in Philosophy'
+title = 'The Shanghai Lecture'
 theme = 'ananke'
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/lectureshanghai"
