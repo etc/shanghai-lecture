@@ -19,3 +19,7 @@ DefaultContentLanguage = "en"
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/lectureshanghai"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/@shanghai-lecture"
