@@ -2,6 +2,19 @@ baseURL = 'https://shanghai-lecture.org/'
 languageCode = 'en-us'
 title = 'The Shanghai Lecture'
 theme = 'ananke'
+DefaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    title = "The Shanghai Lecture"
+    LanguageName = "English"
+    weight = 1
+    contentDir = "content/en"
+  [languages.zh]
+    title = "上海讲座"
+    LanguageName = "中文"
+    weight = 2
+    contentDir = "content/zh"
 
 [[params.ananke_socials]]
 name = "twitter"
