@@ -23,3 +23,7 @@ url = "https://twitter.com/lectureshanghai"
 [[params.ananke_socials]]
 name = "youtube"
 url = "https://www.youtube.com/@shanghai-lecture"
+
+[params]
+  recent_posts_number = 10
+  post_content_classes = "avenir"
