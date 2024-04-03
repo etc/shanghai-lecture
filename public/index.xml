@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Shanghai Lecture in Philosophy</title>
+    <title>The Shanghai Lecture in Philosophy on The Shanghai Lecture</title>
     <link>https://shanghai-lecture.org/</link>
-    <description>Recent content on The Shanghai Lecture in Philosophy</description>
+    <description>Recent content in The Shanghai Lecture in Philosophy on The Shanghai Lecture</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://shanghai-lecture.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://shanghai-lecture.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://shanghai-lecture.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shanghai-lecture.org/about/</guid>
+      <description>Organised by the philosophy faculty at NYU Shanghai, The Shanghai Lecture aims to build a platform for exchange between philosophers inside and outside China. Every academic year, the series invites one world-renowned philosopher to Shanghai for an in-person public lecture, to present new work in philosophy. Video recordings are made available to the public, and written versions of the lectures published in both English, in The Asian Journal of Philosophy, and in Chinese, in Philosophical Analysis.</description>
+    </item>
+    <item>
+      <title>The 2024 Shanghai Lecture</title>
+      <link>https://shanghai-lecture.org/lecture/2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shanghai-lecture.org/lecture/2024/</guid>
+      <description>Huaping Lu-Adler will deliver the inaugural Shanghai Lecture in Philosophy on Friday 10 May 2024.</description>
+    </item>
   </channel>
 </rss>
