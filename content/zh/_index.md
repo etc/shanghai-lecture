@@ -1,6 +1,6 @@
 ---
 title: "上海哲学讲座"
-description: "上海纽约大学一年一度系列讲座。"
+description: "上海纽约大学一年一度系列讲座"
 cascade:
   featured_image: '/images/zhang-kechun-doutuanshan.jpg'
 ---
