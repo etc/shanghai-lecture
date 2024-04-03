@@ -27,3 +27,4 @@ url = "https://www.youtube.com/@shanghai-lecture"
 [params]
   recent_posts_number = 10
   post_content_classes = "avenir"
+  custom_css = ["custom.css"]
