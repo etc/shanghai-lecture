@@ -1,8 +1,9 @@
 ---
 title: "The Shanghai Lecture in Philosophy"
 
-description: "Coming May 2024"
+description: "An annual lecture series at NYU Shanghai"
 cascade:
   featured_image: '/images/zhang-kechun-doutuanshan.jpg'
 ---
-An annual lecture series at [NYU Shanghai](https://shanghai.nyu.edu/).
+
+Organised by the philosophy faculty at NYU Shanghai, the Shanghai Lecture in Philosophy is a platform for exchange between philosophers inside and outside China.
